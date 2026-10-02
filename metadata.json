@@ -1,0 +1,6 @@
+{
+  "name": "스마트 구글 시트 가계부",
+  "description": "구글 시트와 실시간 연동되어 품목, 개수, 단가, 금액, 수입, 지출 및 비고를 체계적으로 기록하고 통계를 확인하는 가계부입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
